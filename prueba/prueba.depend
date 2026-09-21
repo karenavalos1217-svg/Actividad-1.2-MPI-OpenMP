@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1787517004 source:c:\users\karen\onedrive\documentos\programacion paralela\prueba\main.cpp
-	<omp.h>
-	<stdio.h>
-
