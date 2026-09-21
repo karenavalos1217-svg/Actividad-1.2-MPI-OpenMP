@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1789953889 source:c:\users\karen\onedrive\documentos\programacion paralela\actividad1_2_sendrecv\main.cpp
+	<mpi.h>
+	<omp.h>
+	<iostream>
+	<string>
+	<iomanip>
+	"OperacionesArreglos.h"
+
+1685592824 c:\program files (x86)\microsoft sdks\mpi\include\mpi.h
+	<stdint.h>
+	<sal.h>
+	<stdint.h>
+
+1789953979 c:\users\karen\onedrive\documentos\programacion paralela\actividad1_2_sendrecv\operacionesarreglos.h
+	<string>
+
+1789955295 source:c:\users\karen\onedrive\documentos\programacion paralela\actividad1_2_sendrecv\operacionesarreglos.cpp
+	"OperacionesArreglos.h"
+	<iostream>
+	<cstdlib>
+	<omp.h>
+

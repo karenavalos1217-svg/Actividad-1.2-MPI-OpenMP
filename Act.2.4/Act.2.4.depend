@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1788751974 source:c:\users\karen\onedrive\documentos\programacion paralela\act.2.4\banco.cpp
+	"Banco.h"
+	<iostream>
+
+1788750262 c:\users\karen\onedrive\documentos\programacion paralela\act.2.4\banco.h
+	<omp.h>
+
+1788751985 source:c:\users\karen\onedrive\documentos\programacion paralela\act.2.4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+	<omp.h>
+	"Banco.h"
+

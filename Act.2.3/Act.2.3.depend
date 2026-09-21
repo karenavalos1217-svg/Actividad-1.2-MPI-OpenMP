@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1788475537 source:c:\users\grefe\onedrive\documentos\act.2.3\operacionesarreglos.cpp
+	"OperacionesArreglos.h"
+	<omp.h>
+	<stdexcept>
+
+1788475534 c:\users\grefe\onedrive\documentos\act.2.3\operacionesarreglos.h
+
+1788676606 source:c:\users\karen\onedrive\documentos\programacion paralela\act.2.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdexcept>
+	<omp.h>
+	"OperacionesArreglos.h"
+
+1788676606 c:\users\karen\onedrive\documentos\programacion paralela\act.2.3\operacionesarreglos.h
+
+1788676606 source:c:\users\karen\onedrive\documentos\programacion paralela\act.2.3\operacionesarreglos.cpp
+	"OperacionesArreglos.h"
+	<omp.h>
+	<stdexcept>
+

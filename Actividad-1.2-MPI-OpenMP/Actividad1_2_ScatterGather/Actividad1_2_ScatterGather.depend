@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1789959131 source:c:\users\karen\onedrive\documentos\programacion paralela\actividad1_2_scattergather\main.cpp
+	<mpi.h>
+	<omp.h>
+	<iostream>
+	<string>
+	<iomanip>
+	"OperacionesArreglos.h"
+
+1685592824 c:\program files (x86)\microsoft sdks\mpi\include\mpi.h
+	<stdint.h>
+	<sal.h>
+	<stdint.h>
+
+1789954507 c:\users\karen\onedrive\documentos\programacion paralela\actividad1_2_scattergather\operacionesarreglos.h
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1787520425 source:c:\users\karen\onedrive\documentos\programacion paralela\pruebampi\main.cpp
+	<iostream>
+	<cstddef>
+	<mpi.h>
+
+1685592824 c:\program files (x86)\microsoft sdks\mpi\include\mpi.h
+	<stdint.h>
+	<sal.h>
+	<stdint.h>
+

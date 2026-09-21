@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1788128157 source:c:\users\karen\onedrive\documentos\programacion paralela\2.1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+
